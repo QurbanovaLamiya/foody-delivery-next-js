@@ -1,5 +1,5 @@
 import { Container } from "@mui/material";
-import FaqAccordion from "./faqAccordion";
+import FaqAccordion from "./FaqAccordion";
 
 const FaqsContainer = () => {
   return (
