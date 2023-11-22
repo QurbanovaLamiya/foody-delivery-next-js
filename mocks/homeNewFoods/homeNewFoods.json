@@ -1,0 +1,22 @@
+{
+  "newFoods": [
+    {
+      "id": 1,
+      "title": "Dubble Chees",
+      "desc": "Lorem ipsum is placeholder  commonly used in the graphic ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4phUpfsb4wW-eeAr3YpMBVUvXat4jnZq6A&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Margarita",
+      "desc": "Lorem ipsum is placeholder  commonly used in the graphic ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhRNGdy-MDxdrGPQJKAkkNuCP4pNphqmKSg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "title": "Twister Menu",
+      "desc": "Lorem ipsum is placeholder  commonly used in the graphic ",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiLS4U7kbZMG5QeEs9PE_vhdRRg2dSqt8YQ&usqp=CAU"
+    }
+  ]
+}

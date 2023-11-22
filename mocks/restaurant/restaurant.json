@@ -1,0 +1,260 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "restaurant_name": "Papa John’s",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 5,
+      "minute": 20,
+      "category": "Pizza",
+      "image_url": "https://i.pinimg.com/236x/95/d2/a8/95d2a8f094c8c3cfb48e3bb0645d490e.jpg",
+      "slug": "papa-johns",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Soppressata",
+          "desc": "Prepared with soppressata, some chopped Calabrian chiles",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/564x/f9/6b/d8/f96bd8d65e30ea005ae52bf06e32cfe8.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Margherita",
+          "desc": "Prepared with tomatoes, mozzarella cheese, garlic, fresh basil,olive oil.",
+          "price": "8.70",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/564x/99/1b/70/991b70d70d65f7b271bc2fe7441b7da8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "restaurant_name": "McDonald’s",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 5,
+      "minute": 25,
+      "category": "Fast Food",
+      "image_url": "https://i.pinimg.com/236x/dd/12/17/dd1217afdd4c674f75aa384bda4057f7.jpg",
+      "slug": "mcdonalds",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Beef Burger",
+          "desc": "Beef—placed inside a sliced bun or bread roll.",
+          "price": "7.20",
+          "stockLimit": 8,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/50/fe/a6/50fea6f969893541e2237fd311b721c4.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "French Fries",
+          "desc": "Prepared with potatoes ketchup, mayonnaise, vinegar.",
+          "price": "4.90",
+          "stockLimit": 6,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/34/6d/d2/346dd2f843fe4ea915cc1c9ced32fcb4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "restaurant_name": "Pizza Hut",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 8,
+      "minute": 30,
+      "category": "Pizza",
+      "image_url": "https://i.pinimg.com/564x/28/d5/23/28d5235efe7816441207e305faca672b.jpg",
+      "slug": "pizza-hut",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Cheese Peaks",
+          "desc": "Lettuce, tomato, onion, pickles, mayo, and cheese",
+          "price": "5.90",
+          "stockLimit": 5,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/de/6e/00/de6e002dc47ac39c25af2c1c5a637eff.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Sandwich",
+          "desc": "Vegetables, sliced cheese or meat, placed on or between slices of bread",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/b5/ed/fb/b5edfbdf1dda4d473f681ea00ac67cc0.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "restaurant_name": "KFC",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 8,
+      "minute": 23,
+      "category": "Fast Food",
+      "image_url": "https://i.pinimg.com/564x/83/fc/15/83fc154710e414a4658aea081dbd7bcc.jpg",
+      "slug": "kfc",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Chicken Bucket",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/564x/b1/17/71/b11771d251efe326b40279d40f41157d.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Burger",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "7.90",
+          "stockLimit": 8,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/c6/4f/8e/c64f8ef7840a1926058fe505de198780.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "restaurant_name": "Burger King",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 8,
+      "minute": 13,
+      "category": "Fast Food",
+      "image_url": "https://i.pinimg.com/236x/b0/7d/ef/b07deff21b412c92bd3f24966b5a95b9.jpg",
+      "slug": "burger-king",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Onion Rings",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "image_url": "https://i.pinimg.com/236x/ef/17/df/ef17dfd8dea00cc13c1edfa16cf33379.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Chicken Roll",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/564x/f9/e8/8a/f9e88a2d6f03129ba7505c34b1f50edf.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "restaurant_name": "Domino’s",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 7,
+      "minute": 11,
+      "category": "Pizza",
+      "image_url": "https://i.pinimg.com/564x/25/8e/45/258e45abf4e399371a7b44723a6c3a0c.jpg",
+      "slug": "dominos",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Burrata",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "6.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/b6/94/0e/b6940e530fa87fdf8f4e9cdf5ccafc36.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Burger",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/f9/b2/19/f9b219e32195ba1e3550bd49a48bf60d.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "restaurant_name": "Subway",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 5.9,
+      "minute": 15,
+      "category": "Fast Food",
+      "image_url": "https://i.pinimg.com/236x/bc/be/b9/bcbeb90f29118eeabd3ec67d5f0e2ba2.jpg",
+      "slug": "subway",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Brasserie Bread",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/03/d8/ec/03d8ecd02cd35ee32ee950acf9e2f5b8.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Burger",
+          "desc": "Prepared With A Patty, A Slice Of Cheese And Special Sauce",
+          "price": "5.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/564x/85/c9/9b/85c99b3463b254b858d5936ae3f75158.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "restaurant_name": "Dunkin'",
+      "cuisine": "chinese, sea-food, thai, lebanese, caribbean",
+      "price": 7.3,
+      "minute": 18,
+      "category": "Fast Food",
+      "image_url": "https://i.pinimg.com/236x/fc/39/fc/fc39fcad149b7149317c4ae616673eda.jpg",
+      "slug": "dunkin",
+      "address": "201 Bellevue Square",
+      "products": [
+        {
+          "id": 1,
+          "product_name": "Iced Cappuccino",
+          "desc": "Milk, ice, and optional sweetener",
+          "price": "3.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/e7/3b/c5/e73bc561a91587dcf766664a8fe1cdc0.jpg"
+        },
+        {
+          "id": 2,
+          "product_name": "Donuts",
+          "desc": "Powdered sugar or fruit",
+          "price": "4.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/d6/59/ea/d659ead40d5e4ef39753c1db0ceb8503.jpg"
+        },
+        {
+          "id": 3,
+          "product_name": "Macaroons",
+          "desc": "Buttercream, ganache, jams, powdered sugar, and egg whites",
+          "price": "7.90",
+          "stockLimit": 9,
+          "count": 1,
+          "image_url": "https://i.pinimg.com/236x/e2/6d/38/e26d3886e5c6d917d02ef9cd3c84f4c1.jpg"
+        }
+      ]
+    }
+  ]
+}
