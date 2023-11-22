@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useState } from "react";
-import RestaurantCard from "./restaurantCard";
+import RestaurantCard from "./RestaurantCard";
 import SideMenuList from "./SideMenuList";
 import Image from "next/image";
 import {
