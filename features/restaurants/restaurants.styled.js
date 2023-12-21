@@ -42,9 +42,12 @@ export const CategoryName = styled.span`
 `;
 
 export const MenuCardsSection = styled.div`
-  margin-top: 8px;
+/* background-color: red; */
+  /* margin: 8px; */
   width: 80%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 30px;
+  /* flex-wrap: wrap; */
+  /* justify-content: space-between; */
 `;
